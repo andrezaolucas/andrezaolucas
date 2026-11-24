@@ -16,16 +16,36 @@ Construo produtos de software, da primeira versão à operação em produção. 
 
 ## Stack
 
-**Full-stack e iOS**
+### Full Stack
 
-![TypeScript, React, Next.js, Node.js e Swift](https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,swift&theme=dark)
+![TypeScript, JavaScript, React, Next.js, Node.js, Swift, Python e npm](https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,swift,py,npm&theme=dark)
 
-**IA aplicada**
+TypeScript, JavaScript, React, Next.js, Node.js, SwiftUI, Python, FastAPI, REST APIs e npm.
 
-![Python](https://skillicons.dev/icons?i=py&theme=dark)  
+### IA aplicada
+
 Agentes de IA, LLMs, RAG e automação de workflows.
 
-**Dados e infraestrutura**
+### Cloud e infraestrutura
 
-![PostgreSQL, Redis, Docker, Linux e AWS](https://skillicons.dev/icons?i=postgres,redis,docker,linux,aws&theme=dark)  
-CI/CD, alta disponibilidade e segurança de aplicações web e APIs.
+![AWS, Google Cloud, Azure, Docker, Linux e Cloudflare](https://skillicons.dev/icons?i=aws,gcp,azure,docker,linux,cloudflare&theme=dark)
+
+AWS, Google Cloud, Azure, Docker, Linux, Cloudflare e alta disponibilidade.
+
+### Bancos de dados
+
+![PostgreSQL, Redis, Supabase e SQLite](https://skillicons.dev/icons?i=postgres,redis,supabase,sqlite&theme=dark)
+
+PostgreSQL, Redis, Supabase e SQLite.
+
+### CI/CD e ferramentas de desenvolvimento
+
+![GitHub, GitLab e GitHub Actions](https://skillicons.dev/icons?i=github,gitlab,githubactions&theme=dark)
+
+Git, GitHub, GitLab, GitHub Actions, Codecov, Cursor e segurança de aplicações web e APIs.
+
+### Produto e colaboração
+
+![Obsidian, Notion e Figma](https://skillicons.dev/icons?i=obsidian,notion,figma&theme=dark)
+
+Obsidian, Notion, Jira e Figma.
