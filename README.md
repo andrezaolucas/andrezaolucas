@@ -58,7 +58,7 @@ An iOS app for instant push-to-talk voice communication between friends.
 
 I co-founded and helped build a creator monetization platform that reached **250,000 users**.
 
-### Givaways
+### [Givaways.app](https://givaways.app/)
 
 I founded an Instagram giveaway platform used by **more than 300,000 people**.
 
