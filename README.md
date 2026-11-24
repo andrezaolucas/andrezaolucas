@@ -2,50 +2,66 @@
 
 **Founder & Software Engineer**
 
-Construo produtos de software, da primeira versão à operação em produção. Trabalho com agentes de IA, desenvolvimento full-stack e apps iOS.
+I build products end to end, from the first working version to operating them in production. I work on full stack software, AI agents, and native iOS apps.
 
 [LinkedIn](https://www.linkedin.com/in/andrezaolucas/)
 
-## Projetos
-
-- **[AgenzAi](https://agenzai.io/)** · Plataforma de agentes de IA para atendimento a eleitores em escala, acompanhamento de demandas e análise de sentimento.
-- **[Bipo](https://bipo.chat/)** · App iOS de voz instantânea entre amigos, no estilo push-to-talk.
-- **Privify** · Cofundei e desenvolvi uma plataforma de monetização para criadores que chegou a 250 mil usuários.
-- **Givaways** · Fundei um produto de sorteios para Instagram usado por mais de 300 mil pessoas.
-- **[AndreClaw](https://github.com/andrezaolucas/andreclaw)** · Assistente de IA open source para terminal, com suporte a modelos locais e integração com GitHub Actions.
-
-## Stack
+## Tech Stack
 
 ### Full Stack
 
-![TypeScript, JavaScript, React, Next.js, Node.js, Swift, Python e npm](https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,swift,py,npm&theme=dark)
+![TypeScript, JavaScript, React, Next.js, Node.js, Swift, Python, FastAPI, and npm](https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,swift,py,fastapi,npm&theme=dark)
 
-TypeScript, JavaScript, React, Next.js, Node.js, SwiftUI, Python, FastAPI, REST APIs e npm.
+TypeScript, JavaScript, React, Next.js, Node.js, SwiftUI, Python, FastAPI, REST APIs, and npm.
 
-### IA aplicada
+### AI & Automation
 
-Agentes de IA, LLMs, RAG e automação de workflows.
+AI agents, large language models, retrieval-augmented generation (RAG), and workflow automation.
 
-### Cloud e infraestrutura
+### Cloud & Infrastructure
 
-![AWS, Google Cloud, Azure, Docker, Linux e Cloudflare](https://skillicons.dev/icons?i=aws,gcp,azure,docker,linux,cloudflare&theme=dark)
+![AWS, Google Cloud, Azure, Docker, Linux, and Cloudflare](https://skillicons.dev/icons?i=aws,gcp,azure,docker,linux,cloudflare&theme=dark)
 
-AWS, Google Cloud, Azure, Docker, Linux, Cloudflare e alta disponibilidade.
+AWS, Google Cloud, Microsoft Azure, Docker, Linux, Cloudflare, and high availability.
 
-### Bancos de dados
+### Databases & Storage
 
-![PostgreSQL, Redis, Supabase e SQLite](https://skillicons.dev/icons?i=postgres,redis,supabase,sqlite&theme=dark)
+![PostgreSQL, Redis, Supabase, and SQLite](https://skillicons.dev/icons?i=postgres,redis,supabase,sqlite&theme=dark)
 
-PostgreSQL, Redis, Supabase e SQLite.
+PostgreSQL, Redis, Supabase, and SQLite.
 
-### CI/CD e ferramentas de desenvolvimento
+### CI/CD & Developer Tools
 
-![GitHub, GitLab e GitHub Actions](https://skillicons.dev/icons?i=github,gitlab,githubactions&theme=dark)
+![Git, GitHub, GitLab, and GitHub Actions](https://skillicons.dev/icons?i=git,github,gitlab,githubactions&theme=dark)
 
-Git, GitHub, GitLab, GitHub Actions, Codecov, Cursor e segurança de aplicações web e APIs.
+Git, GitHub, GitLab, GitHub Actions, Codecov, and Cursor.
 
-### Produto e colaboração
+### Product & Collaboration
 
-![Obsidian, Notion e Figma](https://skillicons.dev/icons?i=obsidian,notion,figma&theme=dark)
+![Obsidian, Notion, and Figma](https://skillicons.dev/icons?i=obsidian,notion,figma&theme=dark)
 
-Obsidian, Notion, Jira e Figma.
+Obsidian, Notion, Jira, and Figma.
+
+---
+
+## Selected Projects
+
+### [AgenzAi](https://agenzai.io/)
+
+AI agents for political teams to handle constituent requests at scale, track follow-ups, and analyze sentiment in conversations.
+
+### [Bipo](https://bipo.chat/)
+
+An iOS app for instant push-to-talk voice communication between friends.
+
+### Privify
+
+I co-founded and helped build a creator monetization platform that reached **250,000 users**.
+
+### Givaways
+
+I founded an Instagram giveaway platform used by **more than 300,000 people**.
+
+### [AndreClaw](https://github.com/andrezaolucas/andreclaw)
+
+An open source terminal AI assistant with support for local models and GitHub Actions integration.
