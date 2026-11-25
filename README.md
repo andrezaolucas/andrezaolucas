@@ -10,7 +10,7 @@ I build products end to end, from the first working version to operating them in
 
 ### Full Stack
 
-![TypeScript, JavaScript, React, Next.js, Node.js, Swift, Python, FastAPI, and npm](https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,swift,py,fastapi,npm&theme=dark)
+<picture><img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,swift,py,fastapi,npm&amp;theme=dark" alt="TypeScript, JavaScript, React, Next.js, Node.js, Swift, Python, FastAPI, and npm"></picture>
 
 TypeScript, JavaScript, React, Next.js, Node.js, SwiftUI, Python, FastAPI, REST APIs, and npm.
 
@@ -20,25 +20,25 @@ AI agents, large language models, retrieval-augmented generation (RAG), and work
 
 ### Cloud & Infrastructure
 
-![AWS, Google Cloud, Azure, Docker, Linux, and Cloudflare](https://skillicons.dev/icons?i=aws,gcp,azure,docker,linux,cloudflare&theme=dark)
+<picture><img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,linux,cloudflare&amp;theme=dark" alt="AWS, Google Cloud, Azure, Docker, Linux, and Cloudflare"></picture>
 
 AWS, Google Cloud, Microsoft Azure, Docker, Linux, Cloudflare, and high availability.
 
 ### Databases & Storage
 
-![PostgreSQL, Redis, Supabase, and SQLite](https://skillicons.dev/icons?i=postgres,redis,supabase,sqlite&theme=dark)
+<picture><img src="https://skillicons.dev/icons?i=postgres,redis,supabase,sqlite&amp;theme=dark" alt="PostgreSQL, Redis, Supabase, and SQLite"></picture>
 
 PostgreSQL, Redis, Supabase, and SQLite.
 
 ### CI/CD & Developer Tools
 
-![Git, GitHub, GitLab, and GitHub Actions](https://skillicons.dev/icons?i=git,github,gitlab,githubactions&theme=dark)
+<picture><img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions&amp;theme=dark" alt="Git, GitHub, GitLab, and GitHub Actions"></picture>
 
 Git, GitHub, GitLab, GitHub Actions, Codecov, and Cursor.
 
 ### Product & Collaboration
 
-![Obsidian, Notion, and Figma](https://skillicons.dev/icons?i=obsidian,notion,figma&theme=dark)
+<picture><img src="https://skillicons.dev/icons?i=obsidian,notion,figma&amp;theme=dark" alt="Obsidian, Notion, and Figma"></picture>
 
 Obsidian, Notion, Jira, and Figma.
 
